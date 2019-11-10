@@ -1,0 +1,5 @@
+#
+# This how you can define and use a vendor-specific data type.
+#
+
+float64 value
