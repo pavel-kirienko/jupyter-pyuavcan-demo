@@ -10,4 +10,8 @@ Usage instructions:
 2. [Install Jupyter](https://jupyter.org).
 3. Open the notebook: `jupyter notebook pyuavcan.ipynb`.
 
-Have a clever snippet to share? Add it to the notebook and send a pull request!
+As a better alternative to the web browser, consider using [JetBrains PyCharm](https://www.jetbrains.com/pycharm/).
+It is a wonderful IDE (rumor has it that it's better than VSCode) and it has a solid support for Jupyter notebooks
+out of the box.
+
+If you have a clever snippet to share, add it to the notebook and send a pull request at once!

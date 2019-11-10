@@ -103,6 +103,9 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# JetBrains PyCharm
+.idea/
+
 # DSDL-GENERATED PACKAGES
 example/*
 uavcan/*
